@@ -1,6 +1,6 @@
 - 👋 Hello, my name is Ryan and I'm from Seattle.
 - 👀 I’m interested in all things related to full stack development.
-- 🌱 I'm currently learning SQL databases in python.
+- 🌱 I'm currently learning algorithms and data structures in python.
 - 💞️ I’m looking to network with other programmers passionate on improving themselves every day.
 - 📫 How to reach me ryankrdh@gmail.com
 
