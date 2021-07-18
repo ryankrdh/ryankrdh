@@ -1,4 +1,4 @@
-- 💻 365 Days of Code (Code for an hour at least each day). Please check out my roadmap repo.    
+- 💻 365 Days of Code (Code for an hour at least, each day). Please check out my roadmap repo.    
 _________________________
 - 📫 How to reach me ryankrdh@gmail.com
 
