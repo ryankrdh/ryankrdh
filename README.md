@@ -1,9 +1,17 @@
-- 💻 365 Days of Code (Code for an hour at least, each day). Please check out my roadmap repo.    
-_________________________
+### Check out my portfolio below!
+<br>
+
+Click ⬇<br><br>
+<a href="https://ryankrdh.surge.sh/" target="_blank">
+  <img src="src/assets/programmer1.gif" alt="Click to go to my portfolio" width="80" height="80">
+</a>
+
+--- 
+
 - 📫 How to reach me ryankrdh@gmail.com
 
 About me: 
-I've been working in the dental field for about 9 years. I mainly work 
+I've been working in the dental field for about 10 years. I mainly work 
 with patients that have severe dental anxiety. I've built and maintained an accelerated hygiene 
 program for couple dental offices doubling their hygiene revenue. During the pandemic I learned some 
 basic programming and created a choice driven story game for kids and fell in love with programming. 
