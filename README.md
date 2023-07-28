@@ -1,12 +1,17 @@
 Welcome!
 
 About me:
-I've been working in the dental field for about 10 years. I mainly work
-with patients that have severe dental anxiety. I've built and maintained an accelerated hygiene
-program for couple dental offices doubling their hygiene revenue. During the pandemic I learned some
-basic programming and created a choice driven story game for kids and fell in love with programming.
-I've been learning and improving my skills every night after work in the hopes of meeting
-others just as passionate about creating programs that can put a smile on peoples' faces.
+As a software engineer, I bring a unique background in healthcare, where I have worked as a provider and successfully built and led accelerated hygiene programs for two dental offices, resulting in a remarkable doubling of their hygiene revenues. Despite my rewarding work in healthcare, I found myself seeking additional challenges to satisfy my passion for problem-solving.
+
+It was during this time that I discovered programming and began diving into it every night. Programming became my outlet for tackling complex challenges and exploring the world of technology. With each programming challenge I conquered, my love for the field grew stronger, and I knew that I had found my true calling as a software engineer.
+
+Throughout my career, I have also taken on leadership roles, leading multiple team meetings and providing mentorship to cohorts of developers. My ability to solve problems efficiently and my strong communication skills have allowed me to collaborate effectively with clients, delivering exceptional customer service.
+
+I am driven by the opportunity to leverage my expertise and skills in various programming languages, such as Java, Python, JavaScript, TypeScript, HTML, and CSS, to develop innovative software solutions and contribute to advancements in the digital world.
+
+My dedication to quality, meticulous attention to detail, and understanding of software development methodologies make me a valuable asset in any development team. I am excited about the continuous learning and growth opportunities in the software engineering field and look forward to making a positive impact in this dynamic and ever-evolving industry.
+
+If you have any further questions or need more information, please feel free to reach out to me. I am eager to contribute my skills and knowledge to your team and be a part of exciting software engineering projects. Thank you for considering my application.
 
 ---
 
