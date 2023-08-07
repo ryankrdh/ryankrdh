@@ -1,5 +1,7 @@
 
-I am a full-stack developer focused on delivering user-centric applications and solutions.
+My name is Ryan Kim. 
+I am a software developer in Seattle.
+
 ### Check out my portfolio below!
 <br>
 
