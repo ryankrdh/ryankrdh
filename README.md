@@ -1,3 +1,5 @@
+
+I am a full-stack developer focused on delivering user-centric applications and solutions.
 ### Check out my portfolio below!
 <br>
 
