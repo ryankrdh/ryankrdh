@@ -1,5 +1,5 @@
 
-My name is Ryan Kim. 
+My name is Ryan Kim. <br>
 I am a software developer in Seattle.
 
 ### Check out my portfolio below!
